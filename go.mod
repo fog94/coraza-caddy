@@ -5,6 +5,7 @@ go 1.16
 require (
 	github.com/caddyserver/caddy/v2 v2.4.5
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
+	github.com/fog94/coraza-wace v0.0.0-20220315204243-256608eb8d26
 	github.com/jptosso/coraza-waf/v2 v2.0.0-rc.2
 	github.com/miekg/dns v1.1.43 // indirect
 	github.com/prometheus/common v0.30.0 // indirect
