@@ -4,7 +4,7 @@ import (
 	caddycmd "github.com/caddyserver/caddy/v2/cmd"
 
 	_ "github.com/caddyserver/caddy/v2/modules/standard"
-	_ "github.com/jptosso/coraza-caddy"
+	_ "github.com/fog94/coraza-caddy"
 	// You may uncomment the following lines to enable libinjection and pcre plugins
 	// _ "github.com/jptosso/coraza-pcre"
 )
