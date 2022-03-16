@@ -284,10 +284,8 @@ github.com/etcd-io/gofail v0.0.0-20190801230047-ad7f989257ca/go.mod h1:49H/RkXP8
 github.com/fatih/color v1.7.0/go.mod h1:Zm6kSWBoL9eyXnKyktHP6abPY2pDugNf5KwzbycvMj4=
 github.com/fatih/color v1.9.0/go.mod h1:eQcE1qtQxscV5RaZvpXrrb8Drkc3/DdQ+uUYCNjL+zU=
 github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568/go.mod h1:xEzjJPgXI435gkrCt3MPfRiAkVrwSbHsst4LCFVfpJc=
-github.com/fog94/coraza-wace v1.1.1 h1:ONgljFlE3/dhR38BZbHoYiJHBDYZeWYjzNDDfzrp794=
-github.com/fog94/coraza-wace v1.1.1/go.mod h1:FQmDJwHyNO4lQ50M90tQK/ldI1ZEkO2PEfXLWCq8xdo=
-github.com/fog94/coraza-wace v1.1.2 h1:0sW5gEmRkHcOL/z/hKlJhYNvbgpw67UmFvI76f2lY2s=
-github.com/fog94/coraza-wace v1.1.2/go.mod h1:FQmDJwHyNO4lQ50M90tQK/ldI1ZEkO2PEfXLWCq8xdo=
+github.com/fog94/coraza-wace v1.1.3-0.20220316224808-6befa0d94746 h1:Z1pU8wBav0pStKqboXkKUKGPA91na48gi3FQ0vksAYI=
+github.com/fog94/coraza-wace v1.1.3-0.20220316224808-6befa0d94746/go.mod h1:kcMX5oYTSqwEaCAbx4+GnpxYcdXXopXFPL/CdwbyICQ=
 github.com/form3tech-oss/jwt-go v3.2.2+incompatible/go.mod h1:pbq4aXjuKjdthFRnoDwaVPLA+WlJuPGy+QneDUgJi2k=
 github.com/form3tech-oss/jwt-go v3.2.3+incompatible/go.mod h1:pbq4aXjuKjdthFRnoDwaVPLA+WlJuPGy+QneDUgJi2k=
 github.com/fortytw2/leaktest v1.2.0/go.mod h1:jDsjWgpAGjm2CA7WthBh/CdZYEPF31XHquHwclZch5g=
